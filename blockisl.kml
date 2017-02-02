@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Document>
+	<name>storyline_20160703.kml</name>
+	<open>1</open>
+	<description><![CDATA[<p align="center"><a href="http://www.moves-app.com"> <img src="http://www.moves-app.com/assets/moves.png"/> </a></p> <p align="center">Moves Storyline</p>]]></description>
+	<atom:link href="http://www.moves-app.com"></atom:link>
+	<Style id="activity_cycling2">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df7faa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_cycling4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_cycling3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_cycling2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_transport">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df7f5500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="activity_transport1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#activity_transport0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#activity_transport</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="activity_transport0">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df7f5500</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="activity_cycling3">
+		<IconStyle>
+			<scale>0</scale>
+			<heading>0</heading>
+			<Icon>
+				<refreshInterval>0</refreshInterval>
+				<viewRefreshTime>0</viewRefreshTime>
+				<viewBoundScale>0</viewBoundScale>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>df7faa55</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>7/2/16</name>
+		<open>1</open>
+		<Placemark id="1467475022000">
+			<name>2 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-02T11:57:02-04:00</begin>
+				<end>2016-07-02T12:01:21-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.557323,41.173353,0 -71.558353,41.172669,0 -71.558616,41.172806,0 -71.559004,41.173038,0 -71.56012200000001,41.172636,0 -71.561239,41.172646,0 -71.561497,41.173007,0 -71.561497,41.173007,0 -71.56183,41.173473,0 -71.563007,41.174205,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1467475802000">
+			<name>2 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-02T12:10:02-04:00</begin>
+				<end>2016-07-02T12:23:32-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.563007,41.174205,0 -71.58289499999999,41.1689,0 -71.583259,41.167263,0 -71.58298600000001,41.166398,0 -71.59657900000001,41.158121,0 -71.59621199999999,41.149131,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1467487718000">
+			<name>2 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-02T15:28:38-04:00</begin>
+				<end>2016-07-02T16:02:30-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.59621199999999,41.149131,0 -71.597318,41.151974,0 -71.597308,41.152401,0 -71.597083,41.153238,0 -71.597077,41.1533,0 -71.595043,41.160298,0 -71.59647099999999,41.160225,0 -71.600314,41.160975,0 -71.600342,41.160807,0 -71.600664,41.164347,0 -71.60057999999999,41.165438,0 -71.601123,41.167918,0 -71.60115399999999,41.167943,0 -71.602965,41.172396,0 -71.590587,41.180295,0 -71.588674,41.180386,0 -71.58779800000001,41.180602,0 -71.57893799999999,41.179831,0 -71.57879800000001,41.179814,0 -71.578384,41.180122,0 -71.578147,41.180375,0 -71.578147,41.180375,0 -71.57881999999999,41.179818,0 -71.578667,41.179876,0 -71.578574,41.17991,0 -71.57772799999999,41.180221,0 -71.57722800000001,41.180431,0 -71.576505,41.180454,0 -71.576505,41.180454,0 -71.575558,41.180483,0 -71.573983,41.180523,0 -71.57367600000001,41.180213,0 -71.57317999999999,41.179233,0 -71.572596,41.178444,0 -71.571495,41.176995,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1467490216000">
+			<name>2 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-02T16:10:16-04:00</begin>
+				<end>2016-07-02T16:33:22-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.571495,41.176995,0 -71.57279800000001,41.176122,0 -71.573533,41.175747,0 -71.57523999999999,41.174562,0 -71.576471,41.174029,0 -71.577308,41.173953,0 -71.577412,41.173923,0 -71.577341,41.173868,0 -71.57738999999999,41.173636,0 -71.577347,41.173576,0 -71.578806,41.171949,0 -71.57898,41.171797,0 -71.57959099999999,41.171293,0 -71.579649,41.171248,0 -71.579678,41.171222,0 -71.579746,41.171146,0 -71.5814,41.169634,0 -71.581608,41.169539,0 -71.581613,41.169529,0 -71.581608,41.169475,0 -71.581622,41.169451,0 -71.581665,41.169213,0 -71.583285,41.167057,0 -71.58298499999999,41.166494,0 -71.582364,41.166199,0 -71.58195499999999,41.165984,0 -71.581711,41.165529,0 -71.58260900000001,41.163343,0 -71.583438,41.163247,0 -71.584082,41.163327,0 -71.584681,41.163076,0 -71.58586,41.161779,0 -71.58844499999999,41.1599,0 -71.58847400000001,41.159895,0 -71.59039300000001,41.159944,0 -71.597443,41.155438,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1467491603000">
+			<name>2 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-02T16:33:23-04:00</begin>
+				<end>2016-07-02T16:45:08-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_transport1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.597443,41.155438,0 -71.59738900000001,41.155269,0 -71.59738900000001,41.155269,0 -71.59739,41.155283,0 -71.597398,41.155007,0 -71.59742300000001,41.154447,0 -71.597015,41.153066,0 -71.597015,41.153066,0 -71.597056,41.153133,0 -71.59706900000001,41.153241,0 -71.59706900000001,41.153241,0 -71.597067,41.153237,0 -71.59707,41.153218,0 -71.597093,41.153187,0 -71.597118,41.152913,0 -71.59723200000001,41.152527,0 -71.597313,41.151601,0 -71.59716400000001,41.151243,0 -71.597173,41.151251,0 -71.59680299999999,41.150504,0 -71.59677600000001,41.150405,0 -71.59621199999999,41.149131,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>7/3/16</name>
+		<open>1</open>
+		<Placemark id="1467562786000">
+			<name>3 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-03T12:19:46-04:00</begin>
+				<end>2016-07-03T12:49:00-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_cycling4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.59621199999999,41.149131,0 -71.597094,41.150812,0 -71.597163,41.151354,0 -71.597296,41.151692,0 -71.59744499999999,41.152133,0 -71.597488,41.152299,0 -71.59752400000001,41.152425,0 -71.597859,41.154426,0 -71.597596,41.155014,0 -71.597516,41.155348,0 -71.59203100000001,41.16028,0 -71.59113600000001,41.159933,0 -71.59003300000001,41.159691,0 -71.580439,41.16391,0 -71.579808,41.163376,0 -71.577944,41.149662,0 -71.578242,41.149568,0 -71.578251,41.149632,0 -71.580876,41.149614,0 -71.581056,41.149654,0 -71.581056,41.149654,0 -71.576185,41.149339,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1467564540000">
+			<name>3 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-03T12:49:00-04:00</begin>
+				<end>2016-07-03T13:06:39-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_cycling4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.576185,41.149339,0 -71.576007,41.148858,0 -71.57598900000001,41.148736,0 -71.575979,41.148697,0 -71.57624800000001,41.148552,0 -71.57647299999999,41.148437,0 -71.576579,41.148382,0 -71.57738500000001,41.14796,0 -71.57757100000001,41.147987,0 -71.577831,41.148026,0 -71.578558,41.148171,0 -71.578558,41.148171,0 -71.578615,41.148182,0 -71.57879,41.148265,0 -71.57884300000001,41.14831,0 -71.581226,41.149055,0 -71.581676,41.148999,0 -71.58291199999999,41.148887,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1467577243000">
+			<name>3 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-03T16:20:43-04:00</begin>
+				<end>2016-07-03T16:34:42-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_cycling4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.58291199999999,41.148887,0 -71.58137000000001,41.1489,0 -71.58019899999999,41.14894,0 -71.579917,41.148837,0 -71.579803,41.148783,0 -71.578585,41.148213,0 -71.578476,41.148172,0 -71.57841999999999,41.148154,0 -71.57596599999999,41.148418,0 -71.575897,41.148482,0 -71.57651300000001,41.149523,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1467578274000">
+			<name>3 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-03T16:37:54-04:00</begin>
+				<end>2016-07-03T17:00:32-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_cycling4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.57651300000001,41.149523,0 -71.5771,41.151228,0 -71.577099,41.151269,0 -71.576836,41.160355,0 -71.576734,41.161659,0 -71.57714799999999,41.162153,0 -71.584602,41.163661,0 -71.585506,41.163294,0 -71.597488,41.15473,0 -71.597668,41.154126,0 -71.597633,41.154126,0 -71.596391,41.149759,0 -71.596391,41.149759,0 -71.59621199999999,41.149131,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1467586747000">
+			<name>3 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-03T18:59:07-04:00</begin>
+				<end>2016-07-03T19:11:29-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_cycling4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.59621199999999,41.149131,0 -71.59415900000001,41.151384,0 -71.59415799999999,41.151385,0 -71.581632,41.165131,0 -71.583206,41.167151,0 -71.583406,41.168343,0 -71.571879,41.171474,0 -71.561774,41.173541,0 -71.56140000000001,41.17399,0 -71.56046000000001,41.173956,0 -71.55904200000001,41.173909,0 -71.557115,41.173105,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="1467587973000">
+			<name>3 JUL 2016</name>
+			<TimeSpan>
+				<begin>2016-07-03T19:19:33-04:00</begin>
+				<end>2016-07-03T19:22:14-04:00</end>
+			</TimeSpan>
+			<styleUrl>#activity_cycling4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.557115,41.173105,0 -71.55740299999999,41.172924,0 -71.55720599999999,41.172814,0 -71.55731,41.172781,0 -71.557439,41.172834,0 -71.55759000000001,41.172904,0 -71.55776299999999,41.172839,0 -71.55780900000001,41.172643,0 -71.55793300000001,41.17243,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
