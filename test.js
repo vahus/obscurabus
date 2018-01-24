@@ -1,1 +1,1 @@
-console.log("Oh yeah ! fanstastic!");
+console.log("Oh yeah ! fanstastic! GIT its works");
